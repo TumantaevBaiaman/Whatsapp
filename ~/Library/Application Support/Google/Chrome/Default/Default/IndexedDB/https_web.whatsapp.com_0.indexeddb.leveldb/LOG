@@ -1,0 +1,46 @@
+2022/07/24-12:25:20.652 10a03 Reusing MANIFEST /Users/admin/Desktop/banana/whats_iherb/~/Library/Application Support/Google/Chrome/Default/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/24-12:25:20.652 10a03 Recovering log #585
+2022/07/24-12:25:20.692 10a03 Reusing old log /Users/admin/Desktop/banana/whats_iherb/~/Library/Application Support/Google/Chrome/Default/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000585.log 
+2022/07/24-12:25:20.693 10a03 Delete type=2 #586
+2022/07/24-12:25:20.693 10a03 Delete type=2 #584
+2022/07/24-12:25:20.693 10a03 Delete type=2 #582
+2022/07/24-12:25:20.693 10a03 Delete type=2 #583
+2022/07/24-12:25:25.889 ce03 Level-0 table #592: started
+2022/07/24-12:25:25.985 ce03 Level-0 table #592: 1348231 bytes OK
+2022/07/24-12:25:26.030 ce03 Delete type=0 #585
+2022/07/24-12:25:26.324 ce03 Compacting 1@1 + 3@2 files
+2022/07/24-12:25:26.405 ce03 Generated table #593@1: 49585 keys, 2253536 bytes
+2022/07/24-12:25:26.452 ce03 Generated table #594@1: 23290 keys, 2189102 bytes
+2022/07/24-12:25:26.503 ce03 Generated table #595@1: 52035 keys, 1201998 bytes
+2022/07/24-12:25:26.503 ce03 Compacted 1@1 + 3@2 files => 5644636 bytes
+2022/07/24-12:25:26.524 ce03 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/07/24-12:25:26.525 ce03 Delete type=2 #588
+2022/07/24-12:25:26.525 ce03 Delete type=2 #589
+2022/07/24-12:25:26.525 ce03 Delete type=2 #587
+2022/07/24-12:25:26.525 ce03 Delete type=2 #592
+2022/07/24-12:26:05.746 ce03 Level-0 table #597: started
+2022/07/24-12:26:05.807 ce03 Level-0 table #597: 1309457 bytes OK
+2022/07/24-12:26:05.848 ce03 Delete type=0 #591
+2022/07/24-12:26:06.942 e103 Compacting 1@1 + 3@2 files
+2022/07/24-12:26:07.074 e103 Generated table #598@1: 45784 keys, 2253748 bytes
+2022/07/24-12:26:07.164 e103 Generated table #599@1: 28438 keys, 2201486 bytes
+2022/07/24-12:26:07.222 e103 Generated table #600@1: 62049 keys, 1594824 bytes
+2022/07/24-12:26:07.222 e103 Compacted 1@1 + 3@2 files => 6050058 bytes
+2022/07/24-12:26:07.241 e103 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/07/24-12:26:07.242 e103 Delete type=2 #593
+2022/07/24-12:26:07.242 e103 Delete type=2 #595
+2022/07/24-12:26:07.242 e103 Delete type=2 #594
+2022/07/24-12:26:07.242 e103 Delete type=2 #597
+2022/07/24-12:26:40.926 e103 Level-0 table #602: started
+2022/07/24-12:26:40.981 e103 Level-0 table #602: 1385221 bytes OK
+2022/07/24-12:26:41.024 e103 Delete type=0 #596
+2022/07/24-12:26:41.295 e103 Compacting 1@1 + 3@2 files
+2022/07/24-12:26:41.422 e103 Generated table #603@1: 42649 keys, 2254318 bytes
+2022/07/24-12:26:41.517 e103 Generated table #604@1: 33246 keys, 2203122 bytes
+2022/07/24-12:26:41.575 e103 Generated table #605@1: 70829 keys, 1974014 bytes
+2022/07/24-12:26:41.575 e103 Compacted 1@1 + 3@2 files => 6431454 bytes
+2022/07/24-12:26:41.599 e103 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/07/24-12:26:41.600 e103 Delete type=2 #599
+2022/07/24-12:26:41.600 e103 Delete type=2 #598
+2022/07/24-12:26:41.600 e103 Delete type=2 #600
+2022/07/24-12:26:41.600 e103 Delete type=2 #602
