@@ -19,8 +19,15 @@ try:
 
     with connection.cursor() as cursor:
         cursor.execute(
-            """CREATE TABLE IF NOT EXISTS list(
-                id_order bigint NOT NULL);
+            """CREATE TABLE IF NOT EXISTS products(
+                id serial PRIMARY KEY,
+                sku bigint NOT NULL,
+                file_img_1 varchar(50),
+                file_img_2 varchar(50),
+                file_img_3 varchar(50),
+                file_img_4 varchar(50),
+                file_img_5 varchar(50)
+                );
                 """
         )
 
