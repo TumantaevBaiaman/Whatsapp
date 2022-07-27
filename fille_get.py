@@ -48,7 +48,7 @@ def try_api():
                 "superExpress": False,
                 "returnedToWarehouse": False,
                 # "cityId": null,
-                "fromDate": 1658685600000,
+                "fromDate": date_time.start(),
                 "toDate": date_time.time()
             },
             "start": 0,
@@ -68,7 +68,7 @@ def try_api():
                 "superExpress": False,
                 "returnedToWarehouse": False,
                 # "cityId": null,
-                "fromDate": 1658685600000,
+                "fromDate": date_time.start(),
                 "toDate": date_time.time()
             },
             "start": 0,
@@ -87,7 +87,7 @@ def try_api():
                 "superExpress": False,
                 "returnedToWarehouse": False,
                 # "cityId": null,
-                "fromDate": 1658685600000,
+                "fromDate": date_time.start(),
                 "toDate": date_time.time()
             },
             "start": 0,
